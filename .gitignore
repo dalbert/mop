@@ -17,3 +17,5 @@ tmtags
 bin/mop*
 logs/*
 
+# Stuff that showed up after use of Atom editor
+cmd/mop/debug
